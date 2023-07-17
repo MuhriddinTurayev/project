@@ -1,0 +1,26 @@
+<?php
+          $lang = array(
+                    "en" => 'En',
+                    "ru" => 'Ru',
+                    "uz" => 'Uz',
+                    "lang"=>'En',
+                    "manzil" => "address",
+                    "home" => "home",
+                    "services" => "services",
+                    "gallery" => "gallery",
+                    "jamoa" => "the team",
+                    "taxi" => "taxi service",
+                    "kitob" => "JOURNEY TO THE BOOK DISTRICT",
+                    "biz" => "Discover New Places With Us, Adventures Await",
+                    "m" => "a",
+                    "a" => "d",
+                    "n" => "d",
+                    "z" => "r",
+                    "i" => "e",
+                    "l" => "s",
+                    "la" => "s",
+                    "ar" => "e",
+                    "r" => "s",
+                    "batafsil" => "in detail",
+          )
+?>
